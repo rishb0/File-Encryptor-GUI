@@ -168,7 +168,7 @@ public class EncodeDecode {
     }
 }
 
-// the below ode is perfcect to des with norm without any division of key in 3
+// the below code is perfcect to des with norm without any division of key in 3
 // parts
 // a pure original des encode and eedcode sytem is below
 
